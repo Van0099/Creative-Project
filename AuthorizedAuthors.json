@@ -1,0 +1,17 @@
+{
+  "authors": [
+    {
+      "name": "example",
+      "hashes": [
+        "hash",
+      ]
+    },
+  ],
+  "allowedNamespaces": [
+    "UnityEngine",
+    "System",
+    "System.Collections.Generic",
+    "System.Linq",
+    "System.Text"
+  ]
+}
