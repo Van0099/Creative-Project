@@ -1,11 +1,11 @@
 {
   "authors": [
     {
-      "name": "example",
+      "name": "Developer-Van009 (test)",
       "hashes": [
-        "hash",
+        "3B6334876A7C67A1D5832EBE538A8B6D6037B9BD80080D52FAD859E2484DD268"
       ]
-    },
+    }
   ],
   "allowedNamespaces": [
     "UnityEngine",
